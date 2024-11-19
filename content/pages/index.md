@@ -2,63 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: Recursos para sua equipe que turbinam sua produtividade
-      color: text-dark
-      type: TitleBlock
-    subtitle: Aplicativos totalmente desenvolvidos para cloud
-    text: >
-      A eTool cria aplicativos totalmente desenvolvidos com os mais modernos
-      conceitos de Cloud Computing.
-
-
-      Focando na objetividade, praticidade, alta disponibilidade e velocidade,
-      segurança e conformidade com legislação e normas, nossos sistemas podem
-      ser hospedados em nossa nuvem pública ou em sua nuvem privada.
-
-
-      Disponibilizamos aplicativos previamente montados para demandas comuns de
-      mercado ou especialmente criados para a sua necessidade específica.
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/imagem 1 empresa ETool_512x512.png
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: FACILITANDO SUA VIDA
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -176,6 +119,63 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      text: Recursos para sua equipe que turbinam sua produtividade
+      color: text-dark
+      type: TitleBlock
+    subtitle: Aplicativos totalmente desenvolvidos para cloud
+    text: >
+      A eTool cria aplicativos totalmente desenvolvidos com os mais modernos
+      conceitos de Cloud Computing.
+
+
+      Focando na objetividade, praticidade, alta disponibilidade e velocidade,
+      segurança e conformidade com legislação e normas, nossos sistemas podem
+      ser hospedados em nossa nuvem pública ou em sua nuvem privada.
+
+
+      Disponibilizamos aplicativos previamente montados para demandas comuns de
+      mercado ou especialmente criados para a sua necessidade específica.
+    actions:
+      - label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+      - label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    media:
+      url: /images/imagem 1 empresa ETool_512x512.png
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: FACILITANDO SUA VIDA
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
