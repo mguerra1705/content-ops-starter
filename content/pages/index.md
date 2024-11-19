@@ -9,9 +9,17 @@ sections:
       type: TitleBlock
     subtitle: Aplicativos totalmente desenvolvidos para cloud
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      A eTool cria aplicativos totalmente desenvolvidos com os mais modernos
+      conceitos de Cloud Computing.
+
+
+      Focando na objetividade, praticidade, alta disponibilidade e velocidade,
+      segurança e conformidade com legislação e normas, nossos sistemas podem
+      ser hospedados em nossa nuvem pública ou em sua nuvem privada.
+
+
+      Disponibilizamos aplicativos previamente montados para demandas comuns de
+      mercado ou especialmente criados para a sua necessidade específica.
     actions:
       - label: Get started
         altText: ''
