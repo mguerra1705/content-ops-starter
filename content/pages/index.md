@@ -40,7 +40,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/imagem 1 empresa ETool_512x512.png
+      url: /images/imagem 1 empresa ETool_750x750.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
