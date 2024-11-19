@@ -40,7 +40,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/logotipo para empresa ETool.png
+      url: /images/imagem 1 empresa ETool_512x512.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
