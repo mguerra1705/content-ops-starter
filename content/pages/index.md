@@ -122,7 +122,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Porque etools?
       color: text-primary
       styles:
         self:
