@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Recursos para sua equipe que turbinam sua produtividade
+      text: Recursos para sua equipe que turbinam a produtividade
       color: text-dark
       type: TitleBlock
     subtitle: Aplicativos totalmente desenvolvidos para cloud
