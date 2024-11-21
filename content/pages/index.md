@@ -96,11 +96,29 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Tempo é dinheiro
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Quanto tempo é perdido lidando com dificuldades em planilhas e
+      formulários? Qual é o prejuízo causado por fórmulas erradas? E o impacto
+      da perda de um arquivo importante?
+
+
+      Você se lembra quando os celulares ainda não salvavam fotos e vídeos na
+      nuvem? Quantos arquivos perdíamos...
+
+
+      Com um sistema em nuvem, tudo fica armazenado em um super servidor
+      compartilhado, permitindo que pequenas empresas tenham os mesmos recursos
+      que grandes corporações.
+
+
+      Pequenas e médias empresas muitas vezes pensam que desenvolver aplicativos
+      é caro demais, e que o treinamento e suporte aos usuários tornaria isso
+      inviável. Isso mudou.
+
+
+      A eTool desenvolve aplicações de qualquer porte, migra seus dados de
+      qualquer formato, treina sua equipe e presta suporte. Tudo isso por
+      valores acessíveis que cabem no seu orçamento.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
