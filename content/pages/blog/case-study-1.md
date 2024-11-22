@@ -87,14 +87,49 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+O sistema de help desk Etool  é uma plataforma que centraliza e facilita o atendimento ao cliente e o suporte técnico de uma ou de diversas  organizações. Ou seja, pode ser adotado por uma empresa que possui sua própria equipe de suporte técnico (modo SOLO) ou por empresa que presta suporte técnico terceirizado para várias empresas (modo MULTI). Em ambos os casos serve como um ponto único de contato onde clientes e funcionários podem solicitar assistência, reportar problemas ou fazer perguntas.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+**Componentes Principais do Sistema de Help Desk**:
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> _By Clara White - VP of Marketing_
+1.  **Tickets**: Cada solicitação de ajuda é registrada como um ticket, que pode ser rastreado, gerenciado e resolvido de maneira eficiente. Isso ajuda a priorizar e organizar as solicitações de suporte.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+2.  **Atendimentos**: Para cada Ticket gerado podem ser gerados um ou mais registros de atendimentos, contendo a descrição da atividade, o tempo empregado, a situação.
+
+3.  **Automação e SLA (Acordos de Nível de Serviço)**: Para cada empresa cliente cadastrada  poderá ser configurado o SLA de resposta e o SLA de resolução. O sistema calculará para cada Ticket a conformidade a estes critérios.
+
+4.  **Relatórios e Análises**: Ferramentas de relatórios permitem que as empresas acompanhem métricas importantes, como o tempo de resposta e resolução, quantidade de Tickets por período (dia, mês e ano), tempo em atendimentos por Tickets, por mês e por ano. fatura por mês considerando horas franqueadas, horas adicionais e horas extras e a satisfação do cliente com o serviço global e com a eficiência de cada agentes de suporte. Ainda permite a configuração de envio de e-mail para supervisores no caso que expectativa e/ou quebra dos SLAs;
+
+5.  **Empresas Clientes:** 
+
+6.  **Tipos de usuários:** 
+
+    1.  **Admin**: Possui todas as funcionalidades, incluindo a capacidade de alterar o plano contratado
+
+    2.  **Manager**: Funcionalidade de supervisor, podemos alocar outros usuários (até o limite contratado), excluir. alterar, delegar empresas clientes, gerar relatórios.
+
+    3.  **Attendant**: Técnico de suporte que farão os atendimentos aos Tickets.
+
+    4.  **User focus**: Usuários das empresas clientes que poderão abrir Tickets.
+
+    5.  **User**: Usuários das empresas clientes que poderão apenas visualizar os Tickets em seus nomes.
+
+
+
+**Benefícios de um Sistema de Help Deskp**
+
+*   **Eficiência no Atendimento**: Centraliza todas as solicitações em um único local, facilitando a gestão e a resolução rápida dos problemas.
+
+*   **Melhoria na Satisfação do Cliente**: Proporciona um atendimento mais organizado e profissional, resultando em uma experiência de usuário positiva.
+
+*   **Economia de Tempo e Recursos**: Automatiza processos repetitivos e permite que os agentes de suporte foquem em problemas mais complexos.
+
+*   **Acompanhamento e Transparência**: Oferece visibilidade total sobre o status e o histórico das solicitações, tanto para os clientes quanto para a equipe de suporte.
+
+Um sistema de help desk eficaz é essencial para qualquer empresa que deseja proporcionar um suporte técnico de alta qualidade e melhorar a satisfação do cliente.
+
+
+
+
 
 ![](/images/img-placeholder.svg)
 
